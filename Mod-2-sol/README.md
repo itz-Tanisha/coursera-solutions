@@ -1,4 +1,4 @@
-## Output - [Module 2 Solution]()
+## Output - [Module 2 Solution](https://itz-tanisha.github.io/coursera-solutions/Mod-2-sol/)
 
 ## Assignment
 
