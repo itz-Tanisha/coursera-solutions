@@ -17,16 +17,16 @@ This repository contains my solutions to the assignments of the Coursera course
 
 ### Module 3
 
-* [Module 3 Assignment ](./descriptions/assignment2/Assignment-2.md)
-* [Module 3 Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
+* [Module 3 Assignment ](./Mod-3-sol/README.md)
+* [Module 3 Solution](https://itz-tanisha.github.io/coursera-solutions/Mod-3-sol/)
 
 ### Module 4
 
-* [Module 4 Assignment ](./descriptions/assignment2/Assignment-2.md)
-* [Module 4 Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
+* [Module 4 Assignment ](./Mod-4-sol/README.md)
+* [Module 4 Solution](https://itz-tanisha.github.io/coursera-solutions/Mod-4-sol/)
 
 ### Module 5
 
-* [Module 5 Assignment ](./descriptions/assignment2/Assignment-2.md)
-* [Module 5 Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
+* [Module 5 Assignment ](./Mod-5-sol/README.md)
+* [Module 5 Solution](https://itz-tanisha.github.io/coursera-solutions/Mod-5-sol/)
 
